@@ -1,6 +1,6 @@
 {
   "name": "s2maps-gl-react",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A react ready module for the s2maps-gl engine.",
   "main": "lib/index.js",
   "scripts": {
