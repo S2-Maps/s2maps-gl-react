@@ -1,0 +1,12 @@
+{
+  "compact": true,
+  "minified": true,
+  "sourceMap": true,
+  "comments": false,
+  "presets": [
+    "@babel/preset-react",
+    "@babel/preset-env",
+    "@babel/preset-flow"
+  ],
+  "plugins": ["@babel/plugin-syntax-flow"]
+}
