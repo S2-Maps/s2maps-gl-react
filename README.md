@@ -4,9 +4,9 @@
 [npm-url]: https://npmjs.org/package/s2maps-gl-react
 [downloads-image]: https://img.shields.io/npm/dm/s2maps-gl-react.svg
 [downloads-url]: https://www.npmjs.com/package/s2maps-gl-react
-[bundle-image]: https://badgen.net/bundlephobia/min/react
+[bundle-image]: https://badgen.net/bundlephobia/min/s2maps-gl-react
 [bundle-url]: https://bundlephobia.com/package/s2maps-gl-react
-[tree-shake-image]: https://badgen.net/bundlephobia/tree-shaking/react-colorful
+[tree-shake-image]: https://badgen.net/bundlephobia/tree-shaking/s2maps-gl-react
 [tree-shake-url]: https://bundlephobia.com/package/s2maps-gl-react
 
 ## About
