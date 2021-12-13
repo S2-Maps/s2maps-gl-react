@@ -1,11 +1,13 @@
-# s2maps-gl-react [![travis][travis-image]][travis-url] [![npm][npm-image]][npm-url] [![downloads][downloads-image]][downloads-url] [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+# s2maps-gl-react [![npm][npm-image]][npm-url] [![downloads][downloads-image]][downloads-url] [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com) [![bundle][bundle-image]][bundle-url] [![tree-shake][tree-shake-image]][tree-shake-url]
 
-[travis-image]: https://travis-ci.org/S2-Maps/s2maps-gl-react.svg?branch=master
-[travis-url]: https://travis-ci.org/S2-Maps/s2maps-gl-react
 [npm-image]: https://img.shields.io/npm/v/s2maps-gl-react.svg
 [npm-url]: https://npmjs.org/package/s2maps-gl-react
 [downloads-image]: https://img.shields.io/npm/dm/s2maps-gl-react.svg
 [downloads-url]: https://www.npmjs.com/package/s2maps-gl-react
+[bundle-image]: https://badgen.net/bundlephobia/min/react
+[bundle-url]: https://bundlephobia.com/package/s2maps-gl-react
+[tree-shake-image]: https://badgen.net/bundlephobia/tree-shaking/react-colorful
+[tree-shake-url]: https://bundlephobia.com/package/s2maps-gl-react
 
 ## About
 
